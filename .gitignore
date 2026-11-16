@@ -1,0 +1,30 @@
+
+# Skompilowane programy
+*.exe
+*.out
+*.app
+
+# Pliki obiektowe i biblioteki
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Foldery kompilacji
+build/
+debug/
+release/
+Debug/
+Release/
+
+# Pliki tymczasowe
+*.tmp
+*.log
+*~
+
+# Ustawienia lokalne VS Code
+.vscode/*
+!.vscode/extensions.json
